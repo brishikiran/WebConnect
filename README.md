@@ -1,4 +1,4 @@
-# chat-with-website
+# WebConnect
 Simple Streamlit as well as Chainlit app to have interaction with your website URL.
 
 ### Chat with your documents 🚀
@@ -49,4 +49,4 @@ cd chat-with-website
 python3 ingest.py #for ingesting
 chainlit run main.py #for chainlit ui
 ```
-# WebConnect
+
